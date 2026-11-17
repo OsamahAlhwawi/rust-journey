@@ -1,0 +1,5 @@
+# Rust build output (any project, any depth)
+target/
+
+# macOS
+.DS_Store
